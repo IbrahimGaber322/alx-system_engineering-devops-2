@@ -1,2 +1,2 @@
-#!/bin/bash
+SCHOOL #!/bin/bash
 mv [[:upper:]]* /tmp/u/

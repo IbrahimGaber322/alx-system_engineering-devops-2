@@ -1,4 +1,4 @@
-# 0x00 Shell Basics
+SCHOOL # 0x00 Shell Basics
 
 ## Resources
 

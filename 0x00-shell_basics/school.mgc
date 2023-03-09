@@ -1,3 +1,4 @@
 #!/bin/bash
+cp /bin/ls /tmp/magic 
 0 string SCHOOL School data
 !:mime School
